@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\stud\source\repos\sdd_seminar3\sdd_seminar3\source.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\stud\source\repos\sdd_seminar3\sdd_seminar3\source.cpp(40): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'Letter'
+  SDD_Seminar3.vcxproj -> C:\Users\stud\source\repos\SDD_Seminar3\Debug\SDD_Seminar3.exe
