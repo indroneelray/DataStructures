@@ -1,0 +1,5 @@
+Indro		50.1
+Ipshi		60.02
+Partha		70.30
+Temina		80.45
+Tuffi		90.67s
