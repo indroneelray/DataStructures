@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\stud\source\repos\seminar05\seminar05\source.cpp(24): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\stud\source\repos\seminar05\seminar05\source.cpp(49): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\stud\source\repos\seminar05\seminar05\source.cpp(25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\stud\source\repos\seminar05\seminar05\source.cpp(32): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\stud\source\repos\seminar05\seminar05\source.cpp(35): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\stud\source\repos\seminar05\seminar05\source.cpp(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+c:\users\stud\source\repos\seminar05\seminar05\source.cpp(105): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  Seminar05.vcxproj -> C:\Users\stud\source\repos\Seminar05\Debug\Seminar05.exe
