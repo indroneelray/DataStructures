@@ -1,0 +1,7 @@
+3	Profesor	1000.0
+4	Medic		1500.0
+91	Judecator	3500.5
+21	Inginer		2000.3
+54	Avocat		1300.2
+82	Pilot		2100.4
+75	Judecator	2899.3
